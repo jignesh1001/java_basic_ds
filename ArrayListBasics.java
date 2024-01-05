@@ -18,7 +18,7 @@ public class ArrayListBasics {
         System.out.println(list);
         list.remove(2);
         System.out.println(list);
-        
+        sc.close();
         System.out.println(list.size());;
 
     }
